@@ -16,4 +16,4 @@
           
   </div>
   
-  ![snake gif](https://github.com/Joao-Victor-Queiroz/Joao-Victor-Queiroz/blob/output/github-contribution-grid-snake.svg)
+  
