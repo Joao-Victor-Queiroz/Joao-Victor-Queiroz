@@ -2,7 +2,6 @@
 
 
 - 💻 Atualmente buscando aprender mais sobre front-end
-- 🔷 Também aprendendo PHP, banco de dados
 - 😎 Aspirando sempre novas possibilidades e formas de ganhar conhecimento.
 - 🎮 Meus hobbies são jogar de video game, ouvir música e passar um tempo com os amigos (e as vezes sobra pra ler)
 
