@@ -1,9 +1,9 @@
-𝗢𝗹𝗮́! 𝗠𝗲𝘂 𝗻𝗼𝗺𝗲 𝗲́ 𝗝𝗼𝗮̃𝗼, 𝗲́ 𝘂𝗺 𝗽𝗿𝗮𝘇𝗲𝗿 𝘁𝗲𝗿 𝘃𝗼𝗰𝗲̂ 𝗽𝗼𝗿 𝗮𝗾𝘂𝗶!!
+𝗢𝗹𝗮́! 𝗠𝗲𝘂 𝗻𝗼𝗺𝗲 𝗲́ 𝗝𝗼𝗮̃𝗼, sou um desenvolvedor Front-End buscando expandir os conhecimentos para me tornar um full-stack!
 
 
-- 💻 Atualmente buscando aprender mais sobre front-end
-- 😎 Aspirando sempre novas possibilidades e formas de ganhar conhecimento.
-- 🎮 Meus hobbies são jogar de video game, ouvir música e passar um tempo com os amigos (e as vezes sobra pra ler)
+- 💻 Atualmente buscando aprimorar minhas habilidades no front-end e aprender mais sobre a área de back-end.
+- 😎 Aspirando diariamente novos conhecimentos e formas de gerar conexão com pessoas através de soluções úteis e eficientes.
+- 🎮 Hobbies: ler, jogar video game, ouvir música e ensinar.
 
 
 <!-- <div>
@@ -14,6 +14,7 @@
        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
        <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
        <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+       <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
        <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
        <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
        <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
