@@ -2,7 +2,7 @@
 
 
 - 💻 Atualmente buscando aprimorar minhas habilidades no front-end e aprender mais sobre a área de back-end.
-- 😎 Aspirando diariamente novos conhecimentos e formas de gerar conexão com pessoas através de soluções úteis e eficientes.
+- 😎 Aspirando diariamente novos conhecimentos e formas de gerar conexão com pessoas através de soluções úteis, escaláveis, seguras e eficientes.
 - 🎮 Hobbies: ler, jogar video game, ouvir música e ensinar.
 
 
