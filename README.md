@@ -23,7 +23,7 @@ Sou um desenvolvedor Front-End focado em criar interfaces modernas e escaláveis
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 📊 Estatísticas
-![Estatísticas do João](https://github-readme-stats.vercel.app/api?username=Joao-Victor-Queiroz&show_icons=true&theme=dark)
+![Status do João](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Victor-Queiroz&theme=tokyonight)
 
 <div align='center'>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Victor-Queiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
