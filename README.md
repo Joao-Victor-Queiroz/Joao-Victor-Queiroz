@@ -5,7 +5,15 @@
 - 😎 Aspirando diariamente novos conhecimentos e formas de gerar conexão com pessoas através de soluções úteis, escaláveis, seguras e eficientes.
 - 🎮 Hobbies: ler, jogar video game, ouvir música e ensinar.
 
-
+<div>
+  <h1>Minhas stacks</h1>
+  <div>
+    ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+  </div>
+</div>
 <!-- <div>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Joao-Victor-Queiroz&show_icons=true&theme=tokyonight)"
  </div> -->
