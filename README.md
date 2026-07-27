@@ -1,8 +1,8 @@
 # Olá! Meu nome é João 👋
 
-Sou um desenvolvedor Front-End focado em criar interfaces modernas e escaláveis, atualmente expandindo meus horizontes para o ecossistema Full-Stack.
+Sou um desenvolvedor Full-stack focado em criar aplicações eficientes e escaláveis.
 
-- 💻 Atualmente aprimorando habilidades em **Next.js**, **TypeScript** e **Tailwind CSS**.
+- 💻 Atualmente aprimorando habilidades em **Next.js**, **NextJS** e **Banco de dados**.
 - 🚀 Buscando sempre criar conexões através de soluções úteis e eficientes.
 - 🎮 Hobbies: ler, jogar video game, ouvir música e ensinar.
 
