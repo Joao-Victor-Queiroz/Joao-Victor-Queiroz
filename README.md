@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full-stack focado em criar aplicações eficientes e escaláveis.
 
-- 💻 Atualmente aprimorando habilidades em **Next.js**, **NextJS** e **Banco de dados**.
+- 💻 Atualmente aprimorando habilidades em **Next.js**, **NestJS** e **Banco de dados**.
 - 🚀 Buscando sempre criar conexões através de soluções úteis e eficientes.
 - 🎮 Hobbies: ler, jogar video game, ouvir música e ensinar.
 
