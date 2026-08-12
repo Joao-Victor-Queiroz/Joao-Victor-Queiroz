@@ -18,9 +18,6 @@ Sou um desenvolvedor Full-stack focado em criar aplicações eficientes e escal�
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### Em aprendizado
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ### 📊 Estatísticas
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Victor-Queiroz&theme=tokyonight&hide_border=true" />
